@@ -57,7 +57,6 @@ f.input :description, as: :froala_editor, input_html: {data: {options: {toolbarB
 
 If you use this component just star it. A developer is more motivated to improve a project when there is some interest.
 
-Take a look at [other ActiveAdmin components](https://github.com/blocknotes?utf8=✓&tab=repositories&q=activeadmin&type=source) that I made if you are curious.
 
 
 ## License
